@@ -5932,6 +5932,23 @@ Viet Nam,Vinh Long,VNVLG,yes,yes,no,NA,20/01/2026
 Viet Nam,Vung Ang,NA,yes,yes,yes,NA,20/01/2026
 Viet Nam,Vung Ro,NA,yes,yes,yes,NA,20/01/2026
 Viet Nam,Vung Tau,VNVUT,yes,yes,ye,NA,20/01/2026
+Indonesia,Bintuni,IDNTI,yes,yes,yes,NA,20/01/2026
+Indonesia,Futong,IDFTG,yes,yes,yes,NA,20/01/2026
+Indonesia,Kuala Enok,IDENO,yes,yes,yes,NA,20/01/2026
+Indonesia,Satui,IDSTU,yes,yes,yes,NA,20/01/2026
+Indonesia,Selat Panjang,IDSPA,yes,yes,yes,NA,20/01/2026
+Indonesia,Teluk Bayur,IDTBR,yes,yes,yes,NA,20/01/2026
+United Republic of Tanzania,Bukoba,TZ  BKZ,unknown,unknown,unknown,Services for SSC are provided everyday,20/01/2026
+United Republic of Tanzania,DAR ES SALAAM PORT,TZDAR,unknown,unknown,unknown,Services for SSC are provided everyday,20/01/2026
+United Republic of Tanzania,Karema,TZKRM,unknown,unknown,unknown,Services for SSC are provided everyday,20/01/2026
+United Republic of Tanzania,Kemondo Port,TZKAG,unknown,unknown,unknown,Services for SSC are provided everyday,20/01/2026
+United Republic of Tanzania,Kibirizi,TZKIR,unknown,unknown,unknown,Services for SSC are provided everyday,20/01/2026
+United Republic of Tanzania,Kigoma Port,TZ  TKQ,unknown,unknown,unknown,Services for SSC are provided everyday,20/01/2026
+United Republic of Tanzania,Mbamba Bay,TZMBY,unknown,unknown,unknown,Services for SSC are provided everyday,20/01/2026
+United Republic of Tanzania,Mtwara Port,TZ  MYW,unknown,unknown,unknown,Services for SSC are provided everyday,20/01/2026
+United Republic of Tanzania,Mwanza,TZ  MWZ,unknown,unknown,unknown,Services for SSC are provided everyday,20/01/2026
+United Republic of Tanzania,Pangani,TZPAN,unknown,unknown,unknown,Services for SSC are provided everyday,20/01/2026
+United Republic of Tanzania,Tanga,TZ  TGT,unknown,unknown,unknown,Services for SSC are provided everyday,20/01/2026
 Afghanistan,Sheir khan Bandar,,yes,yes,yes,,20/01/2026
 Algeria,DjenDjen,DZDJE,yes,yes,yes,Marine marchande ,20/01/2026
 Antigua and Barbuda,Antigua (Falmouth Harbout at St.Pauls),AGANU,yes,yes,yes,,20/01/2026
@@ -7486,17 +7503,6 @@ United Kingdom of Great Britain and Northern Ireland,Warrenpoint (Northern Irela
 United Kingdom of Great Britain and Northern Ireland,"Weymouth, Dorset (England)",GBWEY,yes,yes,yes,,20/01/2026
 United Kingdom of Great Britain and Northern Ireland,Wisbech Port (England),GBWIS,yes,yes,yes,,20/01/2026
 United Kingdom of Great Britain and Northern Ireland,Workington (England),GBWOR,yes,yes,yes,,20/01/2026
-United Republic of Tanzania,Bukoba,TZ  BKZ,unknown,unknown,unknown,Services for SSC are provided everyday,20/01/2026
-United Republic of Tanzania,DAR ES SALAAM PORT,TZDAR,unknown,unknown,unknown,Services for SSC are provided everyday,20/01/2026
-United Republic of Tanzania,Karema,TZKRM,unknown,unknown,unknown,Services for SSC are provided everyday,20/01/2026
-United Republic of Tanzania,Kemondo Port,TZKAG,unknown,unknown,unknown,Services for SSC are provided everyday,20/01/2026
-United Republic of Tanzania,Kibirizi,TZKIR,unknown,unknown,unknown,Services for SSC are provided everyday,20/01/2026
-United Republic of Tanzania,Kigoma Port,TZ  TKQ,unknown,unknown,unknown,Services for SSC are provided everyday,20/01/2026
-United Republic of Tanzania,Mbamba Bay,TZMBY,unknown,unknown,unknown,Services for SSC are provided everyday,20/01/2026
-United Republic of Tanzania,Mtwara Port,TZ  MYW,unknown,unknown,unknown,Services for SSC are provided everyday,20/01/2026
-United Republic of Tanzania,Mwanza,TZ  MWZ,unknown,unknown,unknown,Services for SSC are provided everyday,20/01/2026
-United Republic of Tanzania,Pangani,TZPAN,unknown,unknown,unknown,Services for SSC are provided everyday,20/01/2026
-United Republic of Tanzania,Tanga,TZ  TGT,unknown,unknown,unknown,Services for SSC are provided everyday,20/01/2026
 United States of America,Boothbay,,yes,yes,yes,"This port in Boothbay Harbor, Maine has no code. US ports listed are for routine cruise ship inspection only. These inspections are solely unannounced and random and are not performed every 6 months. SSC inspection will only be as part of the random and more intensive CDC/VSP cruise ship sanitation inspection process and will not be made upon request. In addition, CDC/VSP will not inspect cargo ships.",20/01/2026
 United States of America,Charleston ,USCHS,yes,yes,yes,"US ports listed are for routine cruise ship inspection only. These inspections are solely unannounced and random and are not performed every 6 months. SSC inspection will only be as part of the random and more intensive CDC/VSP cruise ship sanitation inspection process and will not be made upon request. In addition, CDC/VSP will not inspect cargo ships. ",20/01/2026
 United States of America,Chicago ,USCHI,yes,yes,yes,"US ports listed are for routine cruise ship inspection only. These inspections are solely unannounced and random and are not performed every 6 months. SSC inspection will only be as part of the random and more intensive CDC/VSP cruise ship sanitation inspection process and will not be made upon request. In addition, CDC/VSP will not inspect cargo ships. ",20/01/2026
